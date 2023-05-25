@@ -568,5 +568,5 @@ out/
 *.vcxproj.filters
 *.vcxproj.user
 
-# third_party
-!third_party/
+#third_party
+!third_party/**
